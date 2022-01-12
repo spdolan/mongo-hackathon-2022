@@ -1,0 +1,8 @@
+{
+  "name": "mongo-hackathon-2022",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Sean Dolan",
+  "license": "Apache-2.0",
+  "private": false
+}
